@@ -1,0 +1,11 @@
+C:\Users\James\source\repos\Input Maze\Input Maze\bin\Debug\Input Maze.exe.config
+C:\Users\James\source\repos\Input Maze\Input Maze\bin\Debug\Input Maze.exe
+C:\Users\James\source\repos\Input Maze\Input Maze\bin\Debug\Input Maze.pdb
+C:\Users\James\source\repos\Input Maze\Input Maze\bin\Debug\Input Maze.xml
+C:\Users\James\source\repos\Input Maze\Input Maze\obj\Debug\Input_Maze.Resources.resources
+C:\Users\James\source\repos\Input Maze\Input Maze\obj\Debug\Input Maze.vbproj.GenerateResource.cache
+C:\Users\James\source\repos\Input Maze\Input Maze\obj\Debug\Input Maze.vbproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\Input Maze\Input Maze\obj\Debug\Input Maze.exe
+C:\Users\James\source\repos\Input Maze\Input Maze\obj\Debug\Input Maze.xml
+C:\Users\James\source\repos\Input Maze\Input Maze\obj\Debug\Input Maze.pdb
+C:\Users\James\source\repos\Input Maze\Input Maze\obj\Debug\Input Maze.vbprojAssemblyReference.cache
